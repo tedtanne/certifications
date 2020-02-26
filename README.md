@@ -1,4 +1,4 @@
-# Listing of My Udemy Certificates
+#  This is A Listing of My Udemy Certificates
 ![Image of Artificial Intelligence Concepts](https://github.com/tedtanne/udemy/blob/master/MLOUGA.jpg)
 ![Image of Artificial Intelligence Concepts](https://github.com/tedtanne/udemy/blob/master/Quantum_Conversations.png)
 ![Image of Artificial Intelligence Concepts](https://github.com/tedtanne/udemy/blob/master/Artificial_Intelligence_Concepts.jpg)
