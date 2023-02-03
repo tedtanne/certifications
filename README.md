@@ -1,5 +1,4 @@
 #  This is A Listing of My Udemy Certificates:
-![image of Machine Learning Optimization With Genetic Algorithms](https://www.udemy.com/certificate/UC-fa3e5603-ad8a-4ced-a164-0e1035b998b7/)
 ![Image of ACM Certifications](https://github.com/tedtanne/udemy/blob/master/ACM_Cert.jpg)
 ![Image of Everything You Need To KNow To Program In Python](https://udemy-certificate.s3.amazonaws.com/image/UC-cbc7030e-ed54-4b2e-a814-6d048c86452a.jpg)
 ![Image of Intro ABM 202](https://github.com/tedtanne/udemy/blob/master/Intro_ABM_202.jpg)
